@@ -1,3 +1,4 @@
+// strcpy 函数代码
 char* StrCpy(char* src)
 {
 	int len=strlen(src);
